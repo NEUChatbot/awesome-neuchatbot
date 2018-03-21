@@ -67,7 +67,7 @@
 17. [Batch Normalization](https://arxiv.org/abs/1502.03167)
 18. [Berkeley AI Research (BAIR) Laboratory](https://arxiv.org/pdf/1611.07004v1.pdf) 
 19. [On Using Very Large Target Vocabulary for Neural Machine Translation](https://arxiv.org/pdf/1412.2007.pdf)
-
+20. [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
 ### Tutorials
 
 1.  [A Deep Learning Tutorial: From Perceptrons to Deep Networks](http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks)
