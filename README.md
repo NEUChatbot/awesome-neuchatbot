@@ -109,11 +109,20 @@
 21.  [Deep Learning for Beginners](https://spandan-madan.github.io/DeepLearningProject/)
 
 ### Datasets
-12. [VQA](http://www.visualqa.org/) VQA is a new dataset containing open-ended questions about images. 
-13. [Image QA](http://www.cs.toronto.edu/~mren/imageqa/data/cocoqa/)
-30. [Columbia-Utrecht Reflectance and Texture Database](http://www.cs.columbia.edu/CAVE/curet/) - Texture and reflectance measurements for over 60 samples of 3D texture, observed with over 200 different combinations of viewing and illumination directions. (Formats: bmp)
-134. [DeepMind QA Corpus](https://github.com/deepmind/rc-data) - Textual QA corpus from CNN and DailyMail. More than 300K documents in total. [Paper](http://arxiv.org/abs/1506.03340) for reference.
-
+1. [VQA](http://www.visualqa.org/) VQA is a new dataset containing open-ended questions about images. 
+2. [Image QA](http://www.cs.toronto.edu/~mren/imageqa/data/cocoqa/)
+3. [Columbia-Utrecht Reflectance and Texture Database](http://www.cs.columbia.edu/CAVE/curet/) - Texture and reflectance measurements for over 60 samples of 3D texture, observed with over 200 different combinations of viewing and illumination directions. (Formats: bmp)
+4. [DeepMind QA Corpus](https://github.com/deepmind/rc-data) - Textual QA corpus from CNN and DailyMail. More than 300K documents in total. [Paper](http://arxiv.org/abs/1506.03340) for reference.
+5. [Cornell Movie Dialogs](http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html) - Movie dialogs.
+6. [Ubuntu Dialogue Corpus](https://arxiv.org/abs/1506.08909) - Dialogs of ubuntu journal.
+7. [OpenSubtitles](http://opus.lingfil.uu.se/OpenSubtitles.php) - Movie subtitles.
+8. [Twitter](https://github.com/Marsan-Ma/twitter_scraper) - Dataset from twitter.
+9. [Papaya Conversational Data Set](https://github.com/bshao001/ChatLearner) - Reorganized based on Cornell and Reddit.
+10. [dgk_shooter_min.conv](https://github.com/rustch3n/dgk_lost_conv) - Chinese movie dialogs.
+11. [白鹭时代中文问答语料](https://github.com/Samurais/egret-wenda-corpus) - 白鹭时代论坛问答数据，一个问题对应一个最好的答案。
+12. [微博数据集](http://61.93.89.94/Noah_NRM_Data/) - 华为李航实验室发布，也是论文“Neural Responding Machine for Short-Text Conversation”使用的数据集。
+13. [微博数据集](http://lwc.daanvanesch.nl/openaccess.php) - 新浪微博数据集，评论回复短句。
+ 
 ### Conferences
 
 1. [IJCAI - 	International Joint Conference on Artificial Intelligence](https://www.ijcai-18.org/)
